@@ -3,8 +3,10 @@
 ### Project description:-
    Build hand gesture controlled quadcopter. Arduino, MPU-6050 (gyro+accelerometer) IMU sensor, NRF module, ultrasonic sensors were mainly used components in the project. MPU-6050 was used to detect hand gesture to control quadcopter’s roll, pitch, and yaw. The potentiometer was used for throttle.  NRF module ware used for wireless communication.  
 
-### Hand_gesture_quadchopter
+### Hand_gesture_quadchopter:-
 ![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/Hand_gesture_quad_chopter.jpg)
+
+[![Watch the video](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/drone.png)](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/deone.mp4)
 
 ### Required things :-
 ##### For Transmitter part:-
