@@ -38,10 +38,10 @@
 ### Connections:- 
 
 #### Transmitter connections:-
-![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/transmitter_connections-1.jpg)
+![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/transmitter_transmitter.png)
 
 #### Receiver connections:- 
-![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/receiver_connections-1.jpg)
+![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/Receiver_connections.png)
 
 ### Last processing
 First, Finish your drone assembly. Here is one good video on drone assembly. You can follow this link.
