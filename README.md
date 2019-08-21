@@ -10,7 +10,8 @@
 
 [![Watch the video](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/drone.png)](https://youtu.be/Ep3qxZhunCg)
 
-### Required things :-
+### Required things :- 
+   you can find all the components's [pics](https://github.com/ankitgc1/Hand_gesture_quadchopter/tree/master/pics) directory.
 ##### For Transmitter part:-
 1. Arduino mini/micro
 2. NRF module 
@@ -41,3 +42,10 @@
 
 #### Receiver connections:- 
 ![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/receiver_connections-1.jpg)
+
+### Last processing
+First, Finish your drone assembly. Here is one good video on drone assembly. You can follow this link.
+
+After Finishing the drone assembly. Just finish all your connections.
+In "[nrf_gy_trans](https://github.com/ankitgc1/Hand_gesture_quadchopter/tree/master/nrf_gy_trans)" file has transmitter code, and "[nrf_recv](https://github.com/ankitgc1/Hand_gesture_quadchopter/tree/master/nrf_recv)" file has transmitter code. The codes are pretty self-explaining. Upload the respective codes in their Arduinos.
+
