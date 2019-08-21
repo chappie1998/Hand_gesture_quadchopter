@@ -46,7 +46,7 @@
 ### Last processing
 First, Finish your drone assembly. Here is one good video on drone assembly. You can follow this link.
 
-[![Watch the video)](https://www.youtube.com/watch?v=ZK7IkctChu8)
+![Watch the video](https://www.youtube.com/watch?v=ZK7IkctChu8)
 
 After Finishing the drone assembly. Just finish all your connections.
 In "[nrf_gy_trans](https://github.com/ankitgc1/Hand_gesture_quadchopter/tree/master/nrf_gy_trans)" file has transmitter code, and "[nrf_recv](https://github.com/ankitgc1/Hand_gesture_quadchopter/tree/master/nrf_recv)" file has transmitter code. The codes are pretty self-explaining. Upload the respective codes in their Arduinos.
