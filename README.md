@@ -6,7 +6,9 @@
 ### Hand_gesture_quadchopter:-
 ![alt text](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/Hand_gesture_quad_chopter.jpg)
 
-[![Watch the video](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/drone.png)](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/deone.mp4)
+### Video:-
+
+[![Watch the video](https://github.com/ankitgc1/Hand_gesture_quadchopter/blob/master/pics/drone.png)](https://youtu.be/Ep3qxZhunCg)
 
 ### Required things :-
 ##### For Transmitter part:-
